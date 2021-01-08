@@ -17,7 +17,7 @@ jobs:
           # Options
           user: Koch
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata, habits
           config_timezone: Europe/Oslo
           plugin_followup: yes
           plugin_isocalendar: yes
